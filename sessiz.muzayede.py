@@ -31,4 +31,5 @@ while not ihale_bitti:
     elif devam_mi=="yes":
         clear()
 
-        
+
+#100daysofcode/udemy
